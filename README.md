@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Monika 👋
 
-<!--
-**monikarenu2009-web/Monikarenu2009-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student at Vels University
 
-Here are some ideas to get you started:
+## 📜 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My Certificate](../Certificate/blob/main/9304.pdf)
+
+## 🏆 Achievements
+
+- Participated in technical activities
+- Completed skill development courses
+- Interested in AI & Data Science
+
+## 💻 Projects
+
+- C Programming Projects
+- AI & Data Science Projects
+
+## 🛠️ Skills
+
+C | Python | AI | Data Science
